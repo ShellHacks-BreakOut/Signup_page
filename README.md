@@ -1,3 +1,4 @@
 # Signup_page
 This is a simple SignUp page made with using node.js, expressJs and backend.
-[](https://cdn.discordapp.com/attachments/880128392849141843/891716479022690364/IMG-20210926-WA0013.jpg)
+![signUp](https://user-images.githubusercontent.com/83106116/134817974-792d8509-5dda-4f74-804d-1663814faea1.jpg)
+
